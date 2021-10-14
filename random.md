@@ -2852,3 +2852,4 @@ getting line wrapping". ... "80-column terminals in 2020 isn't reasonable any mo
 - Almost all methods to heat up a home without electricity involves [burning something](https://www.smartpreppergear.com/11-ways-to-heat-a-house-without-electricity/), except the sun and insulation.
 - "Batt" insulation is precut fibreglass or rock wool insulation.
 - Whisky is from Scotland and whiskey is from Ireland. Supposedly. At least the two would like you to think that way.
+- You can claim money back for items not received or faulty using [chargebacks](https://moneyfacts.co.uk/news/travel/what-you-need-to-know-before-travelling-abroad-this-autumn/) if you pay with Visa or Mastercard or Amex.
